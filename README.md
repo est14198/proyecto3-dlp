@@ -6,7 +6,7 @@
 ### Junio 2021
 ------------------------------------------------------------------------------------------------------
 #### Link de video explicativo
-s
+https://youtu.be/XFRmp-VK5bo
 #### Para ejecutar el proyecto (Paso 1)
 Ejecutar el proyecto con el siguiente comando: `python Proyecto2.py testDouble.ATG`. En el repositorio se encuentra el archivo ATG de python para este proyecto. Se lee el archivo ATG y se generan regex de los tokens indicados en este archivo para luego generar autómatas. También se leen las producciones y en base a ellas se genera el Parser.
 #### Para ejecutar el proyecto (Paso 2)
