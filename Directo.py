@@ -1,9 +1,8 @@
 # Universidad del Valle de Guatemala
 # Diseno de Lenguajes de Programacion - Seccion 10
-# Proyecto 1 - Algoritmo Directo (Generacion de AFD a partir de regex)
+# Proyecto 3
 # Maria Fernanda Estrada 14198
-# Marzo 2021
-
+# Junio 2021
 
 
 # Para generar graficas

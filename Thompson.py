@@ -1,8 +1,8 @@
 # Universidad del Valle de Guatemala
 # Diseno de Lenguajes de Programacion - Seccion 10
-# Proyecto 1 - Algoritmo de Thompson (Generacion de AFN)
+# Proyecto 3
 # Maria Fernanda Estrada 14198
-# Marzo 2021
+# Junio 2021
 
 
 
